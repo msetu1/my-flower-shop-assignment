@@ -1,0 +1,329 @@
+header {
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+.btn-shop {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 20px 43px;
+    font-size: 20px;
+    color: #FFF;
+    font-weight: 700;
+}
+
+.blog img {
+    width: 600px;
+    height: 700px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.blog {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+}
+
+.blog-title {
+    font-size: 80px;
+    font-weight: 800;
+}
+
+/* Our Featured Flowers related styles  */
+.shop-section {
+    margin: 30px 150px;
+}
+
+.flower-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.section-flower {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.shop-section img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.flower-description {
+    margin-top: 15px;
+    margin-bottom: 48px;
+}
+
+/* flower item styles  */
+.bg-pink-color {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 0px 47px;
+    padding-top: 150px;
+    /* padding-bottom: 40px; */
+}
+
+.bg-blue-color {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 0px 47px;
+    padding-top: 150px;
+    /* padding-bottom: 40px; */
+}
+
+.bg-eash-color {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 0px 47px;
+    padding-top: 150px;
+    /* padding-bottom: 40px; */
+
+}
+
+.text {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+.flower-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+/* contact delivary styles  */
+.contact-section {
+    margin: 100px 150px;
+
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.delivary-man {
+    padding: 55px 65px;
+
+}
+
+.delivary-info {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.delivary-man img {
+    margin-left: 50px;
+}
+
+/* sale discount styles  */
+.sale-discount {
+    border-radius: 8px;
+    margin-bottom: 100px;
+    background: rgba(229, 84, 115, 0.05)
+}
+
+.discount-color {
+    color: #E55473;
+}
+
+.discount-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.discount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin: 20px 200px;
+}
+
+.discount img {
+    margin: 100px 0px;
+
+}
+
+#btn-sign {
+    margin-left: 200px;
+}
+
+.discount-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.discount-info {
+    padding: 0px 100px;
+}
+
+/* instagram related styles  */
+.instagram-info {
+    text-align: center;
+}
+
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.instagram-description {
+    margin: 30px 400px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.instagram-thumnail {
+    margin: 45px 175px;
+
+}
+
+.instagram-thumnail {
+    width: 100px;
+    height: 300px;
+    display: flex;
+    gap: 24px;
+
+}
+
+/* my flower section style  */
+.section-details {
+    display: flex;
+    margin: 100px 150px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.blog-gardening {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.paragraph-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.information {
+    padding: 50px 50px;
+}
+
+.blog-section-title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.section-details img {
+    width: 500px;
+    margin: 40px 60px;
+
+}
+
+/* card and form related styles */
+.card-section {
+    text-align: center;
+}
+
+.btn-input {
+    width: 700px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 15px;
+}
+
+.btn-subscribe {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 20px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    margin-left: 16px;
+}
+
+.card-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.card-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.card-section {
+    background-image: url("../Rectangle\ 9.png");
+    margin: 100px 100px;
+    padding: 100px 150px;
+}
+
+/* footer section style  */
+.footer-title {
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+}
+
+.footer-section {
+    background: #111010;
+    text-align: center;
+    padding: 128px 0px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.color-shop {
+    color: #E55473;
+}
+
+.date-time {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
